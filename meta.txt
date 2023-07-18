@@ -1,0 +1,19 @@
+Name       = Oddutils
+Version    = 1.0.0
+Essentials = 21
+Conflicts  = v19 Hotfixes
+Conflicts  = v19.1 Updates
+Conflicts  = v20 Hotfixes
+Conflicts  = v20.1 Hotfixes
+Website    = 
+Credits    = oddeyes
+#=====================================================================
+# Change log
+#=====================================================================
+#
+# 1.0.0:
+# - oddball features
+#   
+# 
+#
+#=====================================================================
